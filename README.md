@@ -73,3 +73,7 @@ Amplify settings used:
 ## Contact
 
 Hooman Vahdat
+**My GitHub Portfolio:** https://github.com/hoomanv3xo
+**My Portfolio Site:** https://hooman-codes.ca
+
+
