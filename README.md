@@ -1,8 +1,6 @@
-# My Portfolio
+# AWS Portfolio Tracker **[Live Demo](https://main.dge1x5t4njog6.amplifyapp.com)**
 
 A simple static portfolio website by **Hooman Vahdat**, hosted on AWS Amplify and deployed automatically from this repository.
-
-**Live site:** https://main.dge1x5t4njog6.amplifyapp.com
 
 ## About
 
